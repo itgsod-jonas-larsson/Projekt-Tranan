@@ -1,0 +1,15 @@
+body {
+    background-color: dimgrey;
+}
+
+div#menu_bar {
+    height: 35px;
+    width: 75%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: deepskyblue;
+}
+
+h1 {
+    color: hotpink;
+}
